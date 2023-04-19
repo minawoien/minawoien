@@ -2,6 +2,7 @@
 
 ## Education
 2022- Master in Secure and Reliable Systems at UiS.
+
 2019-2022 Bachelor in Computer Science at UiS.
 
 <!--
